@@ -1,0 +1,13 @@
+Date,Produit,Prix,Quantité,Total,Pays
+2021-01-01,Produit A,10.99,5,54.95,CH
+2021-01-01,Produit B,20.50,3,61.50,France
+2021-01-02,Produit A,10.99,4,43.96,CH
+2021-01-02,Produit C,5.99,2,11.98,DE
+2021-01-03,Produit B,20.50,1,20.50,DE
+2021-01-03,Produit C,5.99,5,29.95,USA
+2021-01-04,Produit A,10.99,2,21.98,France
+2021-01-04,Produit B,20.50,4,82.00,DE
+2021-01-05,Produit C,5.99,3,17.97,ES
+2021-01-05,Produit A,10.99,1,10.99,CH
+2021-01-06,Produit A,10.99,6,65.94,France
+2021-01-06,Produit C,5.99,1,5.99,CH
