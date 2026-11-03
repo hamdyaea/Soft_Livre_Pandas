@@ -1,3 +1,5 @@
+# Developer: Hamdy Abou El Anein
+# Contact: hamdy.aea@protonmail.com
 import pandas as pd
 
 # Créer un DataFrame à partir d'un dictionnaire
