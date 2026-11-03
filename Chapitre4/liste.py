@@ -1,3 +1,5 @@
+# Developer: Hamdy Abou El Anein
+# Contact: hamdy.aea@protonmail.com
 import pandas as pd
 
 ma_liste = [1,2,3,4,5]

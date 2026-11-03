@@ -1,7 +1,10 @@
+# Developer: Hamdy Abou El Anein
+# Contact: hamdy.aea@protonmail.com
+from pathlib import Path
 import pandas as pd
 
 # Charger le fichier csv
-data = pd.read_csv('ventes3.csv')
+data = pd.read_csv(Path(__file__).resolve().parent / 'ventes3.csv')
 
 # Convertir la colonne 'Date' en format de date
 data['Date'] = pd.to_datetime(data['Date'])

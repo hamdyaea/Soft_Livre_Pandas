@@ -1,6 +1,9 @@
+# Developer: Hamdy Abou El Anein
+# Contact: hamdy.aea@protonmail.com
+from pathlib import Path
 import pandas as pd
 
-df = pd.read_csv('ventes.csv')
+df = pd.read_csv(Path(__file__).resolve().parent / 'ventes.csv')
 
 # Calcul de la moyenne de la colonne "Prix unitaire"
 mean = df['Prix'].mean()
